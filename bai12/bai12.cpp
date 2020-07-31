@@ -120,7 +120,7 @@ int main(int argc,char **argv)
 	glutDisplayFunc(display);
 	glutReshapeFunc(reshape);
 	glutIdleFunc(update);
-	glutMainLoop();
+	glutMainLoop();	
 	return 0;
 }
 
