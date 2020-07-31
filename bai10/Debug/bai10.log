@@ -1,0 +1,4 @@
+﻿  bai10.cpp
+d:\new folder\lab1\bai10\bai10.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  bai10.vcxproj -> D:\New folder\lab1\Debug\bai10.exe
+  bai10.vcxproj -> D:\New folder\lab1\Debug\bai10.pdb (Full PDB)

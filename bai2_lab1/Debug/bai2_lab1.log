@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  bai2_lab1.cpp
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(14): error C3861: 'glClearColor': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(15): error C2065: 'GLU_FLAT': undeclared identifier
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(15): error C3861: 'glShadeModel': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(20): error C2065: 'GL_COLOR_BUFFER_BIT': undeclared identifier
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(20): error C3861: 'glClear': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(21): error C3861: 'glColor3f': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(23): error C2065: 'GL_TRIANGLES': undeclared identifier
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(23): error C3861: 'glBegin': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(24): error C3861: 'glVertex2i': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(25): error C3861: 'glVertex2i': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(26): error C3861: 'glVertex2i': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(27): error C3861: 'glEnd': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(29): error C3861: 'glFlush': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(35): error C2065: 'GLsizei': undeclared identifier
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(35): error C2146: syntax error: missing ')' before identifier 'w'
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(36): error C2065: 'GL_PROJECTION': undeclared identifier
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(36): error C3861: 'glMatrixMode': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(37): error C3861: 'glLoadIdentity': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(38): error C2065: 'GLdouble': undeclared identifier
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(38): error C2146: syntax error: missing ')' before identifier 'w'
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(44): error C3861: 'glutInit': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(45): error C2065: 'GLUT_SINGLE': undeclared identifier
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(45): error C2065: 'GLUT_RGBA': undeclared identifier
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(45): error C3861: 'glutInitDisplayMode': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(46): error C3861: 'glutInitWindowSize': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(47): error C3861: 'glutInitWindowPosition': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(48): error C3861: 'glutCreateWindow': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(50): error C3861: 'glutDisplayFunc': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(51): error C3861: 'glutReshapeFunc': identifier not found
+d:\new folder\lab1\bai2_lab1\bai2_lab1.cpp(52): error C3861: 'glutMainLoop': identifier not found
