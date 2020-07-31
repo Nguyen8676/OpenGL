@@ -1,0 +1,5 @@
+﻿  bai12.cpp
+d:\new folder\lab1\bai12\bai12.cpp(37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\new folder\lab1\bai12\bai12.cpp(105): warning C4244: 'argument': conversion from 'GLdouble' to 'GLsizei', possible loss of data
+  bai12.vcxproj -> D:\New folder\lab1\Debug\bai12.exe
+  bai12.vcxproj -> D:\New folder\lab1\Debug\bai12.pdb (Full PDB)
